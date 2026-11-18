@@ -1,0 +1,12 @@
+Ad:Aytac
+Soyad:Qehreman
+Qrup:5094a2
+Fakulte:5094a2
+Seher:Kurdemir
+SEvdiyim fenn :Web programlasdirma
+SEvdiyim emeliyyat sistemi:Linux 
+HObbi:KItab oxumag
+Sevdiyim musigi:Retro
+Arzum:olkeden getmek
+Diller:Azerbaycan,Ingilis
+Tarix:18.11.2026

@@ -1,0 +1,4 @@
+Bu derste Ubuntu terminalinda qovluq ve fayl yaratmagi oyrendim.
+Skript yazib ishe salmagi ve chmod ile icaze vermeyi oyrendim.
+cp ve mv emrleri ile fayllari kopyalamaq ve adini deyismek olur.
+Git ve GitHub ile layihemi internete yukleyecem.

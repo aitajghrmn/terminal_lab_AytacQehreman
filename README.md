@@ -11,3 +11,5 @@ Muellif: Aytac Qehreman, Qrup: 5094a2
 ## Skriptleri nece isletmek olar
 ./hesablamalar/hesabla.sh
 ./metn/soz.sh
+
+Tarix: 18.11.2026
